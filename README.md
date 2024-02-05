@@ -31,8 +31,8 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="jenkins" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="celery" width="40" height="40" style="max-width: 100%;">
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="celery" width="40" height="40" style="max-width: 100%;"> -->
 
 <br>
 <br>
