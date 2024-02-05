@@ -17,7 +17,7 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 🚀 **Technologies & Tools:**
 
-<img src="https://camo.githubusercontent.com/c96cb99431280ee1fdce3fe6b5338c5aca7bcaf94331b7426803ac9b426f6cef/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
 
   <img src="https://img.shields.io/badge/Python-Django-green" alt="Python: Django">
   <img src="https://img.shields.io/badge/Python-Pandas-yellow" alt="Python: Pandas">
