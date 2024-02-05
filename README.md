@@ -1,10 +1,7 @@
-<div align="center">
 
 # Hi there, I'm Temi (https://your-portfolio-link.com) 👋
 
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
-
-</div>
 
 <div align="center">
 
