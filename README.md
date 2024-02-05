@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi there, I'm [Temi] 👋
 
-<!--
-**Temi9568/Temi9568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Technologies & Tools:**
+- Python: Django
+- Python: Pandas
+- Docker
+- Celery
+- Redis
+- Jenkins
+- Javascript
+- HTML
+- CSS
+
+🌐 **Check out my work:**
+- [My Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+🔧 **Skills:**
+- Backend Development
+- API Design and Integration
+- Dockerizing Applications
+- Task Queue Management with Celery
+- Continuous Integration with Jenkins
+
+🎓 **Education:**
+- Bachelor of Science in Computer Science, [Waterford Institute of Technology], [2019], [1:1]
+- Bachelor of Science in Accounting, [University of Hull], [2019], [1:1]
+
+📚 **Certifications:**
+- AWS: DVA CO2 Qualified
+- ACA: Chartered Accountant 
+
+📫 **Contact:**
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/temi9568).
+
+⚡ **Fun fact:**
+I enjoy exploring new technologies and contributing to open source projects. When I'm not coding, you'll find me reading or playing football.
+
+📊 **GitHub Stats:**
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temi9568&show_icons=true&theme=radical)](https://github.com/Temi9568)
+
+📈 **Top Languages:**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
+
