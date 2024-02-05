@@ -1,4 +1,5 @@
-<a href="https://equityhub.co.uk"> <h1># Hi there, I'm Temi () 👋</h1></a>
+# Hi there, I'm Temi () 👋 (https://equityhub.co.uk)
+
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
 
 <div align="center">
