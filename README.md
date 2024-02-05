@@ -38,6 +38,7 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 <br>
 
 📚 **Certifications:**
+
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws cva d02" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.worldvectorlogo.com/logos/chartered-accountants-2.svg" alt="cai" width="40" height="40" style="max-width: 100%;">
 
