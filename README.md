@@ -17,21 +17,16 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 🚀 **Technologies & Tools:**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;">
-
-  <img src="https://img.shields.io/badge/Python-Django-green" alt="Python: Django">
-  <img src="https://img.shields.io/badge/Python-Pandas-yellow" alt="Python: Pandas">
-  <img src="https://img.shields.io/badge/Docker-blue" alt="Docker">
-  <img src="https://img.shields.io/badge/Celery-orange" alt="Celery">
-  <img src="https://img.shields.io/badge/Redis-red" alt="Redis">
-  <img src="https://img.shields.io/badge/Jenkins-purple" alt="Jenkins">
-  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-orange" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="django" width="40" height="40" style="max-width: 100%;">
 
 <br>
 <br>
