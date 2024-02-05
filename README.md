@@ -44,5 +44,5 @@ I enjoy exploring new technologies and contributing to open source projects. Whe
 ![Temi's GitHub stats](https://temi-vercel-i6cavqxos-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
 
 📈 **Top Languages:**
-[![Top Languages](https://temi-vercel-47c6cq5ms-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
+[![Top Languages](https://temi-vercel-i6cavqxos-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
 
