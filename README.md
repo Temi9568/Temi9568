@@ -1,4 +1,4 @@
-# Hi there, I'm Temi () 👋 (https://equityhub.co.uk)
+# Hi there, I'm Temi 👋 ([EquityHub](https://equityhub.co.uk))
 
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
 
@@ -18,7 +18,6 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 </div>
 
-
 <div align="center">
   
 ![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
@@ -34,7 +33,6 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 📚 **Certifications:**
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified">
-  <img src="https://charteredaccountantsworldwide.com/wp-content/uploads/2020/12/logo_0001_CAI.jpg" alt="ACA: Chartered Accountant">
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified" width="150" height="150">
+  <img src="https://charteredaccountantsworldwide.com/wp-content/uploads/2020/12/logo_0001_CAI.jpg" alt="ACA: Chartered Accountant" width="150" height="150">
 </div>
-
