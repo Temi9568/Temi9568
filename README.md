@@ -14,19 +14,25 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 <div align="center">
 
+🚀 **Top Languages:**
 
-🚀 **Technologies & Tools:**
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="bootstrap5" width="40" height="40" style="max-width: 100%;">
+
+<br>
+<br>
+
+🚀 **Frameworks:**
 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/html.svg" alt="django" width="40" height="40" style="max-width: 100%;">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="django" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="jenkins" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="celery" width="40" height="40" style="max-width: 100%;">
 
 <br>
 <br>
