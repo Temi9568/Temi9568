@@ -22,8 +22,6 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
   <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
 
 
-
-
 📚 **Certifications:**
 
   <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified" width="150" height="150">
@@ -40,8 +38,3 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 [![Top Languages](https://github-readme-stats-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
 
 </div>
-
-🎓 **Education:**
-- Bachelor of Science in Computer Science, [Waterford Institute of Technology], [2019], [1:1]
-- Bachelor of Science in Accounting, [University of Hull], [2019], [1:1]
-
