@@ -1,6 +1,4 @@
-
-# Hi there, I'm Temi (https://your-portfolio-link.com) 👋
-
+<a href="https://equityhub.co.uk"> <h1># Hi there, I'm Temi () 👋</h1></a>
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
 
 <div align="center">
@@ -19,6 +17,15 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 </div>
 
+
+<div align="center">
+  
+![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
+
+</div>
+
 🎓 **Education:**
 - Bachelor of Science in Computer Science, [Waterford Institute of Technology], [2019], [1:1]
 - Bachelor of Science in Accounting, [University of Hull], [2019], [1:1]
@@ -26,14 +33,7 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 📚 **Certifications:**
 
 <div align="center">
-  <img src="https://path-to-your-dva-co2-qualified-badge.png" alt="AWS: DVA CO2 Qualified">
-  <img src="https://path-to-your-aca-badge.png" alt="ACA: Chartered Accountant">
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified">
+  <img src="https://charteredaccountantsworldwide.com/wp-content/uploads/2020/12/logo_0001_CAI.jpg" alt="ACA: Chartered Accountant">
 </div>
 
-<div align="center">
-
-![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
-
-</div>
