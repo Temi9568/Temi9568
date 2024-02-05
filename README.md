@@ -2,17 +2,21 @@
 
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
 
+<div align="center">
 
 🚀 **Technologies & Tools:**
-- Python: Django
-- Python: Pandas
-- Docker
-- Celery
-- Redis
-- Jenkins
-- Javascript
-- HTML
-- CSS
+  
+  <img src="https://img.shields.io/badge/Python-Django-green" alt="Python: Django">
+  <img src="https://img.shields.io/badge/Python-Pandas-yellow" alt="Python: Pandas">
+  <img src="https://img.shields.io/badge/Docker-blue" alt="Docker">
+  <img src="https://img.shields.io/badge/Celery-orange" alt="Celery">
+  <img src="https://img.shields.io/badge/Redis-red" alt="Redis">
+  <img src="https://img.shields.io/badge/Jenkins-purple" alt="Jenkins">
+  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML-orange" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
+
+</div>
 
 🌐 **Check out my work:**
 - [My Portfolio](https://your-portfolio-link.com)
@@ -34,14 +38,10 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 - AWS: DVA CO2 Qualified
 - ACA: Chartered Accountant 
 
-📫 **Contact:**
-- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/temi9568).
-
-⚡ **Fun fact:**
-I enjoy exploring new technologies and contributing to open source projects. When I'm not coding, you'll find me reading or playing football.
+<div align="center">
 
 ![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
 
-
 [![Top Languages](https://github-readme-stats-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
 
+</div>
