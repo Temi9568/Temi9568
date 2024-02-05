@@ -1,6 +1,10 @@
-# Hi there, I'm [Temi] 👋
+<div align="center">
+
+# Hi there, I'm Temi (https://your-portfolio-link.com) 👋
 
 I'm a passionate Django backend developer and Chartered Accountant with expertise in Python and JavaScript. I thrive on building scalable and efficient web applications, particularly in the financial (private equity) domain.
+
+</div>
 
 <div align="center">
 
@@ -18,25 +22,16 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 </div>
 
-🌐 **Check out my work:**
-- [My Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-
-🔧 **Skills:**
-- Backend Development
-- API Design and Integration
-- Dockerizing Applications
-- Task Queue Management with Celery
-- Continuous Integration with Jenkins
-
 🎓 **Education:**
 - Bachelor of Science in Computer Science, [Waterford Institute of Technology], [2019], [1:1]
 - Bachelor of Science in Accounting, [University of Hull], [2019], [1:1]
 
 📚 **Certifications:**
-- AWS: DVA CO2 Qualified
-- ACA: Chartered Accountant 
+
+<div align="center">
+  <img src="https://path-to-your-dva-co2-qualified-badge.png" alt="AWS: DVA CO2 Qualified">
+  <img src="https://path-to-your-aca-badge.png" alt="ACA: Chartered Accountant">
+</div>
 
 <div align="center">
 
