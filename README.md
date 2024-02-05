@@ -38,8 +38,7 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 <br>
 
 📚 **Certifications:**
-
-  <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified" width="150" height="150">
+  <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="dva-c02" width="40" height="40" style="max-width: 100%;">
   <img src="https://charteredaccountantsworldwide.com/wp-content/uploads/2020/12/logo_0001_CAI.jpg" alt="ACA: Chartered Accountant" width="150" height="150">
 
 </div>
