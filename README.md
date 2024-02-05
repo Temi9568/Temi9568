@@ -40,9 +40,8 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 ⚡ **Fun fact:**
 I enjoy exploring new technologies and contributing to open source projects. When I'm not coding, you'll find me reading or playing football.
 
-📊 **GitHub Stats:**
 ![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
 
-📈 **Top Languages:**
-[![Top Languages](https://temi-vercel-i6cavqxos-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
+
+[![Top Languages](github-readme-stats-temi9568s-projects.vercel.app/api/top-langs/?username=Temi9568&layout=compact&theme=radical)](https://github.com/Temi9568)
 
