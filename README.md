@@ -8,6 +8,7 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 
 <div align="center">
 
+
 🚀 **Technologies & Tools:**
   
   <img src="https://img.shields.io/badge/Python-Django-green" alt="Python: Django">
@@ -21,6 +22,8 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
   <img src="https://img.shields.io/badge/CSS-blue" alt="CSS">
 
 
+
+
 📚 **Certifications:**
 
   <img src="https://miro.medium.com/v2/resize:fit:300/1*bcl0SZFLItgl8cWuzsquQQ.png" alt="AWS: DVA CO2 Qualified" width="150" height="150">
@@ -29,6 +32,8 @@ I'm a passionate Django backend developer and Chartered Accountant with expertis
 </div>
 
 <div align="center">
+
+
   
 ![Temi's GitHub stats](https://github-readme-stats-temi9568s-projects.vercel.app/api?username=temi9568&show_icons=true&theme=radical)
 
